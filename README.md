@@ -10,6 +10,7 @@ To deepen my knowledge, I’ve earned certifications from:
 - **NYU | TISCH x Billboard** – Music Industry Essentials Certificate
 - **Berklee College of Music** – Music Business Certificate
 - **MICROSOFT** - Professional Power BI Certificate
+- **365 Careers** Certified Financial Analyst
 
 🎯 **Career goal:**  
 To join a major music company as a **Financial Planning /Royalties Analyst**, combining my background in finance, industry knowledge, and tech expertise.
