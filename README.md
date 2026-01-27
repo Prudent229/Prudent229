@@ -15,7 +15,8 @@ To deepen my knowledge, I’ve earned certifications from:
 🎯 **Career goal:**  
 To join a major music company as a **Financial Planning /Royalties Analyst**, combining my background in finance, industry knowledge, and tech expertise.
 
-🚀 Check out my main project here:  
+🚀 Check out my two projects here:
+👉 [DSP Paiement Simulator](https://github.com/Prudent229/dsp-payment-simulator-mena)
 👉 [Music Royalties & AI](https://github.com/Prudent229/music-royalties-ai)
 
 <!--
